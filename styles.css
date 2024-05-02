@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    color: orange;
+    background-color: beige;
+}
+
+ul {
+    text-align: center;
+    color: orange;
+    background-color: beige;
+    list-style-position: inside;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+

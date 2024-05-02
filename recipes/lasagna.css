@@ -1,0 +1,11 @@
+img {
+    width: 500px;
+    height: auto;
+}
+
+body {
+    background-color: bisque;
+    color: rgb(129, 32, 32);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}

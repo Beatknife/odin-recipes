@@ -2,17 +2,32 @@ body {
     text-align: center;
     color: orange;
     background-color: beige;
+    padding: 0 100px 0;
 }
 
 ul {
-    text-align: center;
+    border: 2px solid orange;
     color: orange;
     background-color: beige;
     list-style-position: inside;
+    margin: 16px 21px 16px;
+    padding: 8px;
 }
 
 img {
     width: 250px;
     height: 250px;
+    margin: 0 8px 0;
+    border: 2px solid orange;
+}
+
+h1 {
+    border: 2px solid orange;
+    box-sizing: border-box;
+    padding: 5px;
+    display: inline-block;
+    width: auto;
+    margin-top: 8px;
+    margin-bottom: 0;
 }
 
